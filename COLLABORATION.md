@@ -17,7 +17,7 @@ We welcome serious inquiries related to:
 If you would like to collaborate, contribute, or discuss potential integration opportunities,  
 please feel free to contact:
 
-**Vincent Shing Hin Chong (Vince Vangohn)**  
+**Vincent Shing Hin Chong **  
 ✉️ Email: **chonghin33@outlook.com**
 
 (Serious inquiries only, please.)
