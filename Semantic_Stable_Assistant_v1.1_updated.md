@@ -96,7 +96,7 @@ Layer 3 → Internal Coherence Check
 
 ## Licensing and Attribution
 
-This structure is based on Language Construct Modeling (LCM) and Semantic Logic System (SLS), originally developed by Vincent Shing Hin Chong (Vince Vangohn).  
+This structure is based on Language Construct Modeling (LCM) and Semantic Logic System (SLS), originally developed by Vincent Shing Hin Chong.  
 Free for research and non-commercial use with proper attribution.  
 Preserve structural integrity and cite the original semantic originator.
 
